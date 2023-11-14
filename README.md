@@ -21,6 +21,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 - 🔭 I’m currently working on [ProductiveGPT - "Efficiency at your finger tips"](https://pgpt-site-rajdewangan1504.vercel.app/)
 
 - 🌱 I’m currently learning **React Native to create impactful solutions, leveraging the power of hybrid apps to reach a broader audience..**
