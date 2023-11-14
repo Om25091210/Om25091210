@@ -6,7 +6,7 @@
 
 <br>
 
-![logo](https://github.com/Om25091210/Om25091210/assets/74484315/16a356d1-47a8-450d-bc32-4f805a83fdbf)
+![logo](https://github.com/Om25091210/Om25091210/assets/74484315/1a214281-26b7-43e2-994a-f1f7f9987143)
 
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
 <h3 align="center">A driven and passionate developer committed to transforming ideas into impactful solutions.</h3>
