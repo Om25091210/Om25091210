@@ -1,3 +1,11 @@
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+
+<br>
+
 ![logo](https://github.com/Om25091210/Om25091210/assets/74484315/9f03fac1-9f8a-4e9c-9623-a5d0500fd6bb)
 
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
