@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hii+I+m+OM+KUMAR+YADAV+..&hearts;++;Self-taught+Software+Developer,;Computer+Science+Student,;transforming+ideas+into+impactful+solutions,;Active+Learner+and+curious+about+tech,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -12,6 +9,9 @@
 
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
 <h3 align="center">A driven and passionate developer committed to transforming ideas into impactful solutions.</h3>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om25091210&label=Profile%20views&color=0e75b6&style=flat" alt="om25091210" /> </p>
 
