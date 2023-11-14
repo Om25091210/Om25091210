@@ -59,6 +59,11 @@
 </table>
 <!--- stats (end) -->
 
+<!--- Quote --->
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omkumar39123262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkumar39123262" height="30" width="40" /></a>
