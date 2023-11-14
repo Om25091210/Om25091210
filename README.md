@@ -1,4 +1,4 @@
-![logo](https://github.com/Om25091210/Om-Yadav/assets/74484315/80c1e94e-a357-40fc-b5f2-514dc4b88e23)
+![logo](https://github.com/Om25091210/Om25091210/assets/74484315/9f03fac1-9f8a-4e9c-9623-a5d0500fd6bb)
 
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
 <h3 align="center">A driven and passionate developer committed to transforming ideas into impactful solutions.</h3>
