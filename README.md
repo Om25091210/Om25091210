@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om25091210&label=Profile%20views&color=0e75b6&style=flat" alt="om25091210" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om25091210" alt="om25091210" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 🔭 I’m currently working on [ProductiveGPT - "Efficiency at your finger tips"](https://pgpt-site-rajdewangan1504.vercel.app/)
 
