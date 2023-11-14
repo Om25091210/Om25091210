@@ -8,7 +8,7 @@
 ![logo](https://github.com/Om25091210/Om25091210/assets/74484315/1a214281-26b7-43e2-994a-f1f7f9987143)
 
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
-<h3 align="center">A driven and passionate developer committed to transforming ideas into impactful solutions.</h3>
+<h3 align="center">A passionate developer dedicated to turning ideas into powerful solutions. Eager to create habit-forming products through a relentless pursuit of innovation.</h3>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
